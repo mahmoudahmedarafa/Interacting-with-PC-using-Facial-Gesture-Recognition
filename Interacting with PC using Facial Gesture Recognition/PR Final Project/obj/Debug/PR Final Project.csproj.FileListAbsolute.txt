@@ -1,0 +1,14 @@
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\bin\Debug\PR Final Project.exe.config
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\bin\Debug\PR Final Project.exe
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\bin\Debug\PR Final Project.pdb
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\obj\Debug\PR Final Project.csprojResolveAssemblyReference.cache
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\obj\Debug\PR_Final_Project.Form1.resources
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\obj\Debug\PR_Final_Project.Properties.Resources.resources
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\obj\Debug\PR Final Project.csproj.GenerateResource.Cache
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\obj\Debug\PR Final Project.exe
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\obj\Debug\PR Final Project.pdb
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\bin\Debug\MathNet.Numerics.dll
+E:\College\Pattern Recognition\Projects\PR Final Project\PR Final Project\bin\Debug\MathNet.Numerics.xml
+E:\Computer Science\New folder\PR Final Project\PR Final Project\bin\Debug\PR Final Project.exe.config
+E:\Computer Science\New folder\PR Final Project\PR Final Project\obj\Debug\PR Final Project.exe
+E:\Computer Science\New folder\PR Final Project\PR Final Project\obj\Debug\PR Final Project.pdb
